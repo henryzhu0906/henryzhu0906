@@ -22,8 +22,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/henryzhu0906?label=Follow&style=social)](https://github.com/henryzhu0906)
 [![GitHub stars](https://img.shields.io/github/stars/henryzhu0906?label=Stars&style=social)](https://github.com/henryzhu0906)
 
-![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henryzhu0906&show_icons=true&theme=radical)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
