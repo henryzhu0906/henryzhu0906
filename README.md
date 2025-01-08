@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryzhu0906&label=Profile%20views&color=0e75b6&style=flat" alt="henryzhu0906" /> </p>
 
-- 🔭 I’m currently working on **Kessler Game**
+- 🔭 I’m currently working on **Work Alone Monitor**
 
-- 🌱 I’m currently learning **Operating System**
+- 🌱 I’m currently learning **Distributed System**
 
-- 👯 I’m looking to collaborate on **C++ project**
+- 👯 I’m looking to collaborate on **C++/Java/Python project**
 
 - 🤝 I’m looking for help with **RESTful API**
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **henryzhu0906@163.com**
+- 📫 How to reach me **henryzhu906@gmail.com**
 
 - ⚡ Fun fact **cats lover**
 
