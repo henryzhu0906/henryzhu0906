@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **henryzhu906@gmail.com**
 
-- ⚡ Fun fact **cats lover**
-
 - I'm a highly motivated full-stack developer passionate about building scalable, efficient, and user-friendly applications. I thrive in collaborative environments and enjoy contributing to open-source projects. With a strong foundation in programming languages and frameworks, I'm always eager to tackle new challenges and expand my knowledge.
 
 [![GitHub followers](https://img.shields.io/github/followers/henryzhu0906?label=Follow&style=social)](https://github.com/henryzhu0906)
