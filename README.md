@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryzhu0906&label=Profile%20views&color=0e75b6&style=flat" alt="henryzhu0906" /> </p>
 
-- 🔭 I’m currently working on **Work Alone Monitor**
+- 🔭 I’m currently working on **Work Alone Smart Monitor**
 
 - 🌱 I’m currently learning **Distributed System**
 
